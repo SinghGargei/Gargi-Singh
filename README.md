@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Gargi Singh
-### Software & Electronics Enthusiast | IoT Developer | Problem Solver
+# Hi, I'm Gargi Singh! 👋
+Welcome to my GitHub profile.
+
 
 ---
 ## 🚀 About Me
